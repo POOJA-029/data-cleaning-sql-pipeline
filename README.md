@@ -1,60 +1,57 @@
 # Data Cleaning & SQL Pipeline
 
 ## Overview
-This project demonstrates an end-to-end data workflow using Python, Pandas, SQLite, SQL, and Matplotlib. It uses a sample e-commerce orders dataset containing intentional duplicate records, missing values, inconsistent date formats, and inconsistent category/status labels.
+This project demonstrates an end-to-end data workflow using Python, Pandas, SQLite, SQL, and Matplotlib. It uses a sample e-commerce orders dataset containing duplicate records, missing values, inconsistent date formats, and inconsistent category/status labels.
 
-## Project files
-- `sample_messy_orders.csv` — raw sample input (155 rows, including intentional duplicates).
-- `clean_pipeline.py` — cleans the data, creates quality flags, loads it into SQLite, and generates a chart.
-- `analysis_queries.sql` — three business queries: monthly revenue, top service categories, and incomplete/flagged records.
-- `README.md` — setup and execution instructions.
+## Project Files
+- `sample_messy_orders.csv` – Raw sample dataset.
+- `clean_pipeline.py` – Python data cleaning and database loading script.
+- `analysis_queries.sql` – Three SQL business queries.
+- `cleaned_orders.csv` – Cleaned dataset.
+- `orders.db` – SQLite database.
+- `monthly_revenue.png` – Monthly revenue chart.
+- `RUN_SUMMARY.md` – Execution summary.
 
 ## Requirements
 - Python 3.9+
-- pandas
-- matplotlib
+- Pandas
+- Matplotlib
+- SQLite
 
-SQLite is included with Python, so no separate database server is required.
+## Setup and Run
 
-## Setup and run
+### 1. Clone the repository
 
 ```bash
-# 1. Clone the repository and enter its folder
 git clone https://github.com/POOJA-029/data-cleaning-sql-pipeline.git
 cd data-cleaning-sql-pipeline
+```
 
-# 2. Install dependencies
+### 2. Install dependencies
+
+```bash
 python -m pip install pandas matplotlib
+```
 
-# 3. Run the pipeline
+### 3. Run the pipeline
+
+```bash
 python clean_pipeline.py
 ```
 
-The script creates:
-- `cleaned_orders.csv` — standardized, deduplicated output.
-- `orders.db` — SQLite database with an `orders` table.
-- `monthly_revenue.png` — monthly revenue chart.
+## SQL Queries
 
-## Run the SQL queries
+Open `orders.db` using DB Browser for SQLite or SQLiteStudio and execute the queries from `analysis_queries.sql`.
 
-Open `orders.db` using DB Browser for SQLite, SQLiteStudio, or the `sqlite3` command-line tool, then run the statements in `analysis_queries.sql`.
+## Cleaning Process
 
-Example using the SQLite command line:
-
-```bash
-sqlite3 orders.db
-.read analysis_queries.sql
-```
-
-## Cleaning decisions
-1. Column names and text values are trimmed and normalized.
-2. Blank strings are treated as missing values.
-3. Mixed date formats are parsed into a consistent date type; invalid dates become NULL.
-4. Service categories and status labels are standardized.
-5. Duplicate `order_id` values are removed, keeping the first occurrence.
-6. Missing quantity is filled with 1 as a documented assumption. Missing unit prices and key identifiers are not fabricated.
-7. `is_flagged` and `quality_issue` preserve visibility of incomplete records.
-8. Revenue is calculated as `quantity * unit_price`; records without a valid price have NULL revenue.
+1. Removed duplicate order IDs.
+2. Handled missing values.
+3. Standardized date formats.
+4. Cleaned category and status labels.
+5. Identified incomplete records using quality flags.
+6. Loaded cleaned data into SQLite.
+7. Generated monthly revenue insights and a chart.
 
 ## Notes
-This is a synthetic dataset created for demonstration purposes. Revenue totals include only rows with a valid calculated revenue. In a production pipeline, business owners should confirm assumptions such as default quantity and duplicate-resolution rules before deployment.
+This project uses a synthetic e-commerce dataset created for demonstration purposes.

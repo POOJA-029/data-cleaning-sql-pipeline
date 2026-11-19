@@ -1,0 +1,156 @@
+order_id,customer_id,order_date,service_category,project_name,quantity,unit_price,payment_status,order_status,notes
+ORD0001,CUST016,2025-04-25,UI/UX Design,SEO Campaign,,34015.9,Paid,Cancelled,Validated by team
+ORD0002,CUST006,31-Mar-2025,UI/UX Design,SEO Campaign,3.0,3850.76,,Completed,Validated by team
+ORD0003,CUST038,23-Jul-2025,web development,Website Revamp,1.0,11868.73,Pending,In Progress,Client requested changes
+ORD0004,CUST022,09/06/2025,SEO,Website Revamp,2.0,43181.56,Paid,In Progress,Client requested changes
+ORD0005,,09-11-2026,SEO,Mobile App UI,1.0,36802.95,,In Progress,Validated by team
+ORD0006,CUST003,06/01/2026,UI/UX Design,Dashboard Build,1.0,32444.3,paid,Completed,
+ORD0007,CUST024,12-Oct-2025,Data Analytics,Dashboard Build,1.0,29516.59,paid,Cancelled,Client requested changes
+ORD0008,CUST016,15/03/2025,Data Analytics,Mobile App UI,2.0,25200.94,Unpaid,Cancelled,Validated by team
+ORD0009,CUST004,,UI/UX Design,Website Revamp,1.0,38321.21,Pending,In Progress,
+ORD0010,CUST032,08-05-2025,Data analytics,Cloud Setup,2.0,11536.63,paid,In Progress,Urgent delivery
+ORD0011,CUST028,09-10-2025,Data analytics,Dashboard Build,1.0,34248.09,paid,Flagged,
+ORD0012,CUST010,2025-04-04,Data Analytics,Cloud Setup,2.0,,,Completed,
+ORD0013,CUST036,26-Jan-2026,Web Development,Cloud Setup,,24987.36,Paid,Cancelled,Validated by team
+ORD0014,CUST028,10-01-2025,Data Analytics,Mobile App UI,1.0,7240.97,Unpaid,Flagged,Urgent delivery
+ORD0015,CUST020,2026-06-04,,SEO Campaign,1.0,39497.04,paid,Flagged,Validated by team
+ORD0016,CUST008,01-01-2025,SEO ,Dashboard Build,1.0,23265.74,Paid,completed,Validated by team
+ORD0017,CUST005,2025-03-22,Data Analytics,SEO Campaign,,33606.07,Pending,Flagged,Urgent delivery
+ORD0018,CUST035,29-Sep-2025,UI/UX Design,Cloud Setup,1.0,43485.42,Pending,Cancelled,Client requested changes
+ORD0019,CUST015,25-Mar-2026,SEO,Dashboard Build,1.0,7642.68,,Flagged,Urgent delivery
+ORD0020,CUST041,26/08/2026,Web Development,SEO Campaign,1.0,2805.61,Paid,In Progress,
+ORD0021,CUST032,11/06/2026,UI/UX Design,Data Migration,1.0,14335.28,,Flagged,
+ORD0022,CUST013,06-Sep-2025,SEO,Website Revamp,,36818.62,Pending,In Progress,
+ORD0023,CUST004,25-Feb-2026,SEO,Website Revamp,2.0,39213.06,Unpaid,Completed,Urgent delivery
+ORD0024,CUST009,16/07/2025,Data analytics,SEO Campaign,1.0,25292.14,Pending,completed,
+ORD0025,CUST035,2026-03-30,Web Development,Website Revamp,1.0,4650.0,paid,Pending,
+ORD0026,CUST004,08/05/2026,Data Analytics,Mobile App UI,1.0,39247.64,Pending,In Progress,
+ORD0027,CUST036,20-Oct-2025,UI UX Design,SEO Campaign,1.0,32105.14,Unpaid,completed,
+ORD0028,CUST004,2026-08-17,Web Development,Data Migration,2.0,34288.96,,Flagged,Urgent delivery
+ORD0029,CUST005,2025-02-28,SEO,Cloud Setup,1.0,38682.06,Pending,Completed,Validated by team
+ORD0030,CUST027,2025-09-10,SEO ,Dashboard Build,1.0,,Unpaid,completed,Client requested changes
+ORD0031,CUST020,10/02/2026,UI UX Design,Dashboard Build,1.0,31046.83,Paid,Pending,Validated by team
+ORD0032,CUST014,,web development,SEO Campaign,1.0,5613.58,Paid,completed,Client requested changes
+ORD0033,CUST035,19/10/2025,web development,Data Migration,,21122.84,,Completed,Validated by team
+ORD0034,CUST009,2025-11-03,web development,Website Revamp,1.0,42404.53,,completed,Client requested changes
+ORD0035,CUST014,16/10/2025,web development,Data Migration,2.0,32998.52,Unpaid,Completed,
+ORD0036,CUST022,03-10-2026,Data Analytics,Cloud Setup,1.0,4373.69,paid,Cancelled,
+ORD0037,CUST008,19-Jul-2026,SEO,Cloud Setup,1.0,26338.54,,Completed,Client requested changes
+ORD0038,CUST003,20/08/2026,web development,Dashboard Build,1.0,20765.94,Unpaid,completed,Urgent delivery
+ORD0039,,04-16-2025,Data Analytics,SEO Campaign,1.0,35654.94,paid,Pending,
+ORD0040,CUST027,07-03-2025,UI/UX Design,Dashboard Build,1.0,35751.43,Paid,Pending,
+ORD0041,CUST030,27/04/2026,SEO ,Dashboard Build,1.0,10981.85,paid,Completed,Urgent delivery
+ORD0042,CUST005,02-13-2026,web development,Dashboard Build,,14340.63,,Pending,Validated by team
+ORD0043,CUST017,2025-12-06,Data Analytics,Data Migration,1.0,7402.02,Paid,Completed,Validated by team
+ORD0044,CUST021,03-21-2026,Data analytics,Data Migration,3.0,33463.17,Paid,Pending,Validated by team
+ORD0045,CUST028,not-a-date,Web Development,Data Migration,3.0,4386.43,paid,In Progress,
+ORD0046,CUST043,03-13-2025,SEO,Cloud Setup,1.0,28984.1,,In Progress,
+ORD0047,CUST036,01-Dec-2025,Data Analytics,SEO Campaign,2.0,32131.36,Pending,Cancelled,Urgent delivery
+ORD0048,CUST001,09-23-2026,web development,Dashboard Build,1.0,19758.19,Pending,Flagged,Validated by team
+ORD0049,CUST044,26-Nov-2025,,Data Migration,2.0,21275.91,paid,Cancelled,
+ORD0050,CUST016,10-18-2025,web development,SEO Campaign,1.0,6468.96,paid,Completed,
+ORD0051,CUST005,08-Sep-2025,UI UX Design,Mobile App UI,,28479.14,,completed,
+ORD0052,CUST042,22-May-2026,Web Development,Website Revamp,2.0,12869.34,paid,completed,Validated by team
+ORD0053,CUST008,2026-04-21,UI UX Design,SEO Campaign,2.0,26189.75,,Flagged,Validated by team
+ORD0054,CUST033,21-Nov-2025,Data analytics,Data Migration,2.0,,paid,Cancelled,
+ORD0055,CUST041,04-06-2026,web development,Data Migration,2.0,34450.51,paid,In Progress,
+ORD0056,CUST022,03-21-2025,SEO ,Data Migration,1.0,12465.98,paid,completed,Urgent delivery
+ORD0057,CUST005,28/01/2026,Data analytics,Mobile App UI,1.0,32522.81,,Pending,
+ORD0058,CUST025,05/03/2025,Web Development,Data Migration,2.0,37897.87,Pending,Completed,Client requested changes
+ORD0059,CUST027,02-Nov-2025,UI/UX Design,Mobile App UI,1.0,38771.54,Unpaid,Pending,
+ORD0060,CUST044,30-Jan-2025,Data analytics,Cloud Setup,1.0,16785.51,Pending,completed,Validated by team
+ORD0061,CUST038,2026-07-01,Web Development,Website Revamp,,41044.48,Pending,completed,
+ORD0062,CUST021,2025-07-06,UI/UX Design,Mobile App UI,1.0,13556.64,Unpaid,Pending,Client requested changes
+ORD0063,CUST031,,Web Development,Cloud Setup,3.0,37983.71,Paid,In Progress,Urgent delivery
+ORD0064,CUST016,2025-03-12,UI/UX Design,Website Revamp,3.0,34554.91,paid,completed,Urgent delivery
+ORD0065,CUST014,2026-04-30,UI UX Design,Cloud Setup,1.0,26468.71,Unpaid,completed,Validated by team
+ORD0066,CUST011,2026-09-14,web development,Website Revamp,3.0,35556.16,Paid,In Progress,Validated by team
+ORD0067,CUST013,20-Jan-2026,SEO,Data Migration,,42512.5,paid,Completed,Client requested changes
+ORD0068,CUST037,2026-09-07,Web Development,Dashboard Build,3.0,36339.66,Pending,Cancelled,Client requested changes
+ORD0069,CUST027,03-12-2025,UI UX Design,Website Revamp,2.0,3037.72,Unpaid,Cancelled,
+ORD0070,CUST034,06-Jun-2025,web development,Data Migration,3.0,9985.82,Pending,Pending,
+ORD0071,CUST016,08-30-2026,SEO,Dashboard Build,2.0,16197.94,paid,Pending,Validated by team
+ORD0072,CUST032,17-Sep-2026,SEO ,SEO Campaign,2.0,16796.86,paid,In Progress,Client requested changes
+ORD0073,CUST045,12-15-2025,web development,Data Migration,1.0,39913.6,,completed,
+ORD0074,CUST016,05-Sep-2025,UI UX Design,Cloud Setup,,23264.56,Pending,Pending,
+ORD0075,CUST045,04-06-2025,UI/UX Design,Dashboard Build,,11917.85,,In Progress,
+ORD0076,CUST036,07-21-2026,SEO ,Dashboard Build,,20583.91,Pending,In Progress,Client requested changes
+ORD0077,,15/09/2025,SEO ,Website Revamp,,7627.88,,Cancelled,Urgent delivery
+ORD0078,CUST018,16/07/2025,web development,Website Revamp,1.0,33890.7,Unpaid,completed,Client requested changes
+ORD0079,CUST035,07-03-2025,Data Analytics,Dashboard Build,1.0,3101.31,Paid,Flagged,Client requested changes
+ORD0080,CUST001,10-May-2025,web development,Mobile App UI,2.0,6859.97,Pending,In Progress,Urgent delivery
+ORD0081,CUST031,02-22-2025,SEO,Website Revamp,2.0,,Pending,Completed,Validated by team
+ORD0082,CUST037,24/02/2025,web development,Website Revamp,1.0,8840.9,Paid,Flagged,
+ORD0083,CUST025,13/09/2026,UI UX Design,Mobile App UI,1.0,35466.98,,Pending,Client requested changes
+ORD0084,CUST007,2026-08-06,UI/UX Design,Cloud Setup,1.0,28409.31,Unpaid,Cancelled,
+ORD0085,CUST005,10/06/2025,Data Analytics,Website Revamp,2.0,9887.08,Pending,Cancelled,Validated by team
+ORD0086,CUST019,04-27-2026,web development,Cloud Setup,2.0,3887.19,Paid,Cancelled,Urgent delivery
+ORD0087,CUST035,28/09/2025,UI/UX Design,Cloud Setup,1.0,20568.41,Unpaid,completed,
+ORD0088,CUST039,03/03/2025,web development,Mobile App UI,1.0,36186.71,Pending,Cancelled,Client requested changes
+ORD0089,CUST032,,UI UX Design,Website Revamp,3.0,23770.07,Paid,Pending,Client requested changes
+ORD0090,CUST015,09-11-2026,Web Development,Cloud Setup,1.0,3599.26,,Completed,Urgent delivery
+ORD0091,CUST012,27-Apr-2026,Data analytics,Cloud Setup,2.0,41433.09,Paid,Pending,Client requested changes
+ORD0092,CUST007,02-23-2026,,Dashboard Build,2.0,16144.98,Pending,In Progress,
+ORD0093,CUST021,2026-07-18,web development,Dashboard Build,1.0,21830.1,Pending,Flagged,
+ORD0094,CUST013,10-Jul-2026,SEO ,Data Migration,2.0,20063.02,Pending,Completed,Urgent delivery
+ORD0095,CUST029,01/10/2025,UI UX Design,Website Revamp,1.0,41926.09,,completed,Urgent delivery
+ORD0096,CUST006,2025-11-15,UI/UX Design,Website Revamp,2.0,25970.68,Paid,Cancelled,Urgent delivery
+ORD0097,CUST018,05-26-2026,Data analytics,Mobile App UI,2.0,24127.06,paid,Pending,Validated by team
+ORD0098,CUST039,29-May-2025,Data Analytics,Website Revamp,1.0,10600.94,Pending,In Progress,Validated by team
+ORD0099,CUST020,2025-10-01,UI UX Design,SEO Campaign,2.0,14520.66,,Pending,Client requested changes
+ORD0100,CUST021,07-Dec-2025,UI/UX Design,Cloud Setup,1.0,21852.15,,Pending,Urgent delivery
+ORD0101,CUST031,2026-02-25,Data analytics,Mobile App UI,,16022.49,paid,Pending,
+ORD0102,CUST029,05-10-2025,SEO,Data Migration,2.0,39462.26,Paid,Cancelled,Urgent delivery
+ORD0103,CUST017,24/02/2026,SEO ,Data Migration,,5680.2,Pending,Cancelled,
+ORD0104,CUST041,03-Dec-2025,UI UX Design,Data Migration,1.0,43050.93,,Completed,Urgent delivery
+ORD0105,CUST028,22/10/2025,SEO,Cloud Setup,,34237.57,Paid,Pending,Urgent delivery
+ORD0106,CUST004,2025-11-03,web development,Dashboard Build,1.0,4454.62,Pending,completed,Urgent delivery
+ORD0107,CUST012,28-Jun-2026,Data Analytics,SEO Campaign,1.0,26551.94,,Pending,Validated by team
+ORD0108,CUST010,04-Sep-2025,UI/UX Design,Mobile App UI,,41295.23,Unpaid,Pending,Client requested changes
+ORD0109,CUST044,10-Jan-2025,Data Analytics,Website Revamp,2.0,40801.4,Unpaid,Flagged,Client requested changes
+ORD0110,CUST020,03-11-2026,UI/UX Design,Mobile App UI,2.0,,Paid,completed,
+ORD0111,CUST045,08-09-2026,web development,Website Revamp,,26929.51,Pending,In Progress,
+ORD0112,CUST032,2026-08-03,web development,SEO Campaign,3.0,41201.22,Unpaid,completed,Urgent delivery
+ORD0113,CUST043,09-28-2026,Data Analytics,Cloud Setup,1.0,31304.99,Paid,In Progress,
+ORD0114,CUST006,02-04-2025,web development,Dashboard Build,,33625.29,Pending,completed,Urgent delivery
+ORD0115,,05-16-2025,Data Analytics,Dashboard Build,2.0,25061.23,Unpaid,Cancelled,Client requested changes
+ORD0116,CUST010,28-Apr-2025,UI/UX Design,Cloud Setup,,43422.96,Pending,Flagged,Client requested changes
+ORD0117,CUST035,03-Apr-2025,SEO,Mobile App UI,1.0,3091.54,Unpaid,Flagged,
+ORD0118,CUST031,2026-01-16,Web Development,Data Migration,3.0,31180.55,Unpaid,Flagged,Urgent delivery
+ORD0119,CUST020,06-Mar-2025,Data analytics,Website Revamp,1.0,41148.97,Paid,Completed,Client requested changes
+ORD0120,CUST035,2026-05-20,Data Analytics,Mobile App UI,2.0,6630.66,Unpaid,Cancelled,Validated by team
+ORD0121,CUST042,06/03/2026,SEO,Mobile App UI,3.0,40130.09,Pending,In Progress,
+ORD0122,CUST016,,SEO ,Website Revamp,,21343.78,Unpaid,Flagged,Client requested changes
+ORD0123,CUST008,04-Mar-2025,UI UX Design,Website Revamp,,14224.96,paid,Cancelled,Validated by team
+ORD0124,CUST016,2025-01-22,Data Analytics,Data Migration,1.0,35938.77,Paid,Flagged,Urgent delivery
+ORD0125,CUST015,24/08/2026,SEO ,SEO Campaign,3.0,37054.75,Paid,In Progress,Urgent delivery
+ORD0126,CUST008,05-14-2025,Web Development,SEO Campaign,1.0,36436.84,Unpaid,completed,Validated by team
+ORD0127,CUST004,2025-11-28,Data Analytics,Cloud Setup,2.0,9905.46,,Completed,
+ORD0128,CUST033,03-May-2026,,Mobile App UI,3.0,35565.72,paid,Flagged,
+ORD0129,CUST002,06-18-2026,Web Development,Mobile App UI,2.0,21966.81,Pending,Cancelled,
+ORD0130,CUST006,18-May-2026,SEO ,Data Migration,1.0,5623.36,Paid,completed,Client requested changes
+ORD0131,CUST039,10-02-2026,web development,Mobile App UI,3.0,18688.44,,Pending,
+ORD0132,CUST015,28/04/2025,Data analytics,Dashboard Build,2.0,20777.97,Pending,Pending,
+ORD0133,CUST017,17-Nov-2025,SEO ,SEO Campaign,,15782.25,Pending,Completed,
+ORD0134,CUST024,2025-03-29,Data Analytics,Data Migration,1.0,20854.75,,Flagged,Validated by team
+ORD0135,CUST043,2025-12-04,Data analytics,Cloud Setup,1.0,19959.37,Unpaid,Flagged,Client requested changes
+ORD0136,CUST014,2025-12-27,Data Analytics,Cloud Setup,2.0,27061.54,paid,Completed,Client requested changes
+ORD0137,CUST018,07-24-2026,UI/UX Design,Mobile App UI,3.0,7382.63,,Flagged,Validated by team
+ORD0138,CUST018,01-27-2025,web development,Dashboard Build,1.0,3730.51,Paid,completed,Urgent delivery
+ORD0139,CUST041,03-Aug-2026,Web Development,Website Revamp,,5457.38,,completed,
+ORD0140,CUST024,06-Mar-2026,web development,Cloud Setup,1.0,16988.08,,Flagged,
+ORD0141,CUST040,23/02/2025,Web Development,Cloud Setup,1.0,9189.92,Unpaid,Pending,
+ORD0142,CUST014,13-May-2026,SEO,Dashboard Build,2.0,20102.81,Paid,In Progress,Validated by team
+ORD0143,CUST026,05-14-2026,Web Development,Website Revamp,1.0,4430.24,Unpaid,completed,Urgent delivery
+ORD0144,CUST001,09-19-2025,UI UX Design,Cloud Setup,2.0,16445.2,paid,completed,
+ORD0145,CUST043,30/06/2026,SEO ,Website Revamp,2.0,23761.15,Paid,Pending,
+ORD0146,CUST037,2026-04-16,Data analytics,Data Migration,2.0,39139.68,Pending,In Progress,
+ORD0147,CUST011,2026-02-19,UI UX Design,Cloud Setup,1.0,43563.49,Paid,Pending,
+ORD0148,CUST034,07-Sep-2025,SEO,Mobile App UI,1.0,27527.03,Unpaid,completed,Client requested changes
+ORD0149,CUST008,2025-06-22,UI/UX Design,Dashboard Build,1.0,24195.54,paid,completed,
+ORD0150,CUST039,05-30-2025,Data Analytics,Cloud Setup,1.0,10884.05,paid,Cancelled,
+ORD0006,CUST003,06/01/2026,UI/UX Design,Dashboard Build,1.0,32444.3,paid,Completed,
+ORD0023,CUST004,25-Feb-2026,SEO,Website Revamp,2.0,39213.06,Unpaid,Completed,Urgent delivery
+ORD0062,CUST021,2025-07-06,UI/UX Design,Mobile App UI,1.0,13556.64,Unpaid,Pending,Client requested changes
+ORD0104,CUST041,03-Dec-2025,UI UX Design,Data Migration,1.0,43050.93,,Completed,Urgent delivery
+ORD0141,CUST040,23/02/2025,Web Development,Cloud Setup,1.0,9189.92,Unpaid,Pending,

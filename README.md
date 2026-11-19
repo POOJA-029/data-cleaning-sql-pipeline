@@ -20,7 +20,7 @@ SQLite is included with Python, so no separate database server is required.
 
 ```bash
 # 1. Clone the repository and enter its folder
-git clone <your-github-repository-url>
+git clone https://github.com/POOJA-029/data-cleaning-sql-pipeline.git
 cd data-cleaning-sql-pipeline
 
 # 2. Install dependencies
